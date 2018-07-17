@@ -9,13 +9,9 @@ The Player must Click on each character once to win the game. But don't click on
 ### The Game:<br>
 ![reactClickGame Img](public/assets/images/home.jpg)
 <br>
-<br>
+<br> 
 
-![reactClickGame Img2](public/assets/images/home2.jpg)
-
-<br>
-<br>
-## Technologies used:
+### Technologies used:
 * React
 * CSS
 * Bootstrap/Reactstrap
