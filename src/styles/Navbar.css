@@ -1,0 +1,29 @@
+.navbar {
+    background-color: black;
+    
+}
+
+.navbar-brand {
+    color:  rgb(254, 255, 255);
+    font-size: 27px;
+    float: right;
+    
+}
+
+.navbar li {
+    display: inline-block;
+    color: rgb(4, 221, 250);
+    
+    position: fixed;
+    float: left;
+}
+
+.navcenter {
+    font-size: 29px;
+    text-align: center;
+}
+
+.score {
+    font-size: 24px;
+    
+}

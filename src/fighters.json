@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Harley Quinn (Dr. Harleen Frances Quinzel)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/b/b5/Injustice2HarleyQuinn.jpg/revision/latest/scale-to-width-down/310?cb=20180606210827"
+    },
+    {
+        "id": 2,
+        "name": "Joker (Jack Napier)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/a/ab/Injustice2TheJoker.jpg/revision/latest/scale-to-width-down/310?cb=20180606225921"
+    },
+    {
+        "id": 3,
+        "name": "Kara Zor-El (Kara Danvers)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/5/5b/Injustice2Supergirl.jpg/revision/latest/scale-to-width-down/310?cb=20180606225852"
+    },
+    {
+        "id": 4,
+        "name": "Black Canary (Dinah Laurel Lance)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/4/4e/Injustice2-BLACK-CANARY-wallpaper-MOBILE-51.jpg/revision/latest/scale-to-width-down/310?cb=20170918182153"
+    },
+    {
+        "id": 5,
+        "name": "Catwoman (Selina Kyle)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/d/d0/Injustice2Catwoman.jpg/revision/latest/scale-to-width-down/310?cb=20180606212527"
+    },
+    {
+        "id": 6,
+        "name": "Batman (Bruce Wayne)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/c/c4/Injustice2-BATMAN-wallpaper-MOBILE-49546165.jpg/revision/latest/scale-to-width-down/310?cb=20171027231117"
+    },
+    {
+        "id": 7,
+        "name": "Superman (Clark Kent)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/1/12/Injustice2Superman.jpg/revision/latest/scale-to-width-down/310?cb=20180606225901"
+    },
+    {
+        "id": 8,
+        "name": "Green Lantern (Hal Jordan)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/1/16/Injustice2GreenLanternHalJordan.jpg/revision/latest/scale-to-width-down/310?cb=20180606225802"
+    },
+    {
+        "id": 9,
+        "name": "The Flash (Barry Allen)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/5/58/Injustice2-THE-FLASH-wallpaper-MOBILE-80.jpg/revision/latest/scale-to-width-down/310?cb=20170918193840"
+    },
+    {
+        "id": 10,
+        "name": "Raiden (God of Thunder)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/2/2e/Injustice2-RAIDEN-wallpaper-mobile-93.jpg/revision/latest/scale-to-width-down/310?cb=20171031001014"
+    },
+    {
+        "id": 11,
+        "name": "Power Girl (Karen Starr)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/8/88/Injustice2-POWER-GIRL-wallpaper-MOBILE-70.jpg/revision/latest/scale-to-width-down/310?cb=20170916182626"
+    },
+    {
+        "id": 12,
+        "name": "Mr. Freeze (Victor Fries)",
+        "image": "https://vignette.wikia.nocookie.net/injusticegodsamongus/images/d/da/Injustice2-MRFREEZE-wallpaper-mobile-89.jpg/revision/latest/scale-to-width-down/310?cb=20170916182526"
+    }
+]
