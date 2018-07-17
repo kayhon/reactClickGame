@@ -1,6 +1,6 @@
 # reactClickGame
 
-## To view deployed version, _**[click here!](https://pdwood-17485.herokuapp.com/)**_
+## To view deployed version, _**[click here!](https://lit-bayou-45265.herokuapp.com/)**_
 Time to test your memory with characters from the video game 'Injustice 2'.
 The Player must Click on each character once to win the game. But don't click on a character twice, or it's game over! The fighter cards will shuffle after each click and if the same image is clicked twice, before the game finishes, the game will restart. The objective is to beat your highest score or to click all 12 images in a row and become the 'reactClickGame Champion!' This was built with React. Give it a try, and have some fun. The link is listed above.
 <br>
