@@ -11,9 +11,8 @@
     margin: auto;
 }
 
-@media all and (max-width: 1089px) { 
+@media all and (max-width: 1089px) {
     .wrapper {
-        max-width: 899px;
+    max-width: 899px;
     }
-    
 }
